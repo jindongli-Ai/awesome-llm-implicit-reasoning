@@ -16,90 +16,81 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 </div>
 
 
+## Related Survey
 
 
+## 3. Methodological Landscape of Implicit Reasoning
 
-## (1) Latent Reasoning Space Construction
+### 3.1 Latent-State Reasoning Representations
+#### 3.1.1 Discrete or Continuous Latent CoT Tokens
 
-1. 2024_arXiv_CCoT_Compressed Chain of Thought: Efficient Reasoning through Dense Representations.
-
-   [[arXiv]](https://arxiv.org/abs/2412.13171)
+1. 2025_arXiv_LPC_Latent Preference Coding=Aligning Large Language Models via Discrete Latent Codes
    
-2. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
+2. 2025_arXiv_Token Assorted_Token Assorted= Mixing Latent and Text Tokens for Improved Language Model Reasoning
 
-   [[arXiv]](https://arxiv.org/abs/2412.06769)
-   
-3. 2024_arXiv_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
+3. 2025_arXiv_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors
+[[arXiv]](https://arxiv.org/abs/2502.01567)
 
-   [[arXiv]](https://arxiv.org/abs/2405.14838)
-   
-4. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
-
-   [[arXiv]](https://arxiv.org/abs/2502.21074)
-   
-5. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
-
-   [[arXiv]](https://arxiv.org/abs/2502.15589)&nbsp;
-   [[Code--Github]](https://github.com/zjunlp/LightThinker)
-    
-6. 2025_arXiv_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
-
-   [[arXiv]](https://arxiv.org/abs/2502.01567)
-
-7. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
-    
-   [[arXiv]](https://arxiv.org/abs/2502.12134) &nbsp;
-   [[Code--Github]](https://github.com/xuyige/SoftCoT)&nbsp;
-   [[Data--Huggingface]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
-
-8. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning
-
-   [[arXiv]](https://arxiv.org/abs/2505.11484)&nbsp;
-   [[Code--Github]](https://github.com/xuyige/SoftCoT)
-
-
-
-## (2) Hidden State-Based Inference
-
-1. 2023_arXiv_ImplicitCoT_Implicit Chain of Thought Reasoning via Knowledge Distillation.
-
-   [[arXiv]](https://arxiv.org/abs/2311.01460)&nbsp;
-   [[Code, Data, Pretrained Model--Github]](https://github.com/da03/implicit_chain_of_thought/)
-   
-2. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
-
-   [[arXiv]](https://arxiv.org/abs/2502.09601)&nbsp;
-   [[Code--Github]](https://github.com/horseee/CoT-Valve)
-   
-3. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
-
-   [[arXiv]](https://arxiv.org/abs/2501.19201)&nbsp;
-   [[Code--Github]](https://github.com/shawnricecake/Heima)
+4. 2025_arXiv_CoCoMix_LLM Pretraining with Continuous Concepts
  
+5. 2025_arXiv_Enhancing Latent Computation in Transformers with Latent Tokens
 
 
 
-## (3) Recurrent or Progressive Depth
+#### 3.1.2 Compressed or Structured Reasoning Trajectories
 
-1. 2025_arXiv_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
-   
-   [[arXiv]](https://arxiv.org/abs/2502.05171)&nbsp;
-   [[Model--Huggingface]](https://huggingface.co/tomg-group-umd/huginn-0125)&nbsp;
-   [[Code and Data--Github]](https://github.com/seal-rg/recurrent-pretraining)
-   
-2. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
-   
-   [[arXiv]](https://arxiv.org/abs/2502.17416)&nbsp;
-   [[ICLR]](https://iclr.cc/virtual/2025/poster/28971)&nbsp;
-   [[Poster]](https://iclr.cc/media/iclr-2025/Slides/28971.pdf)&nbsp;
-   [[Youtube]](https://www.youtube.com/watch?v=S22Bs07HD0k)
+1. 2024_arXiv_CCoT_Compressed Chain of Thought= Efficient Reasoning through Dense Representations
+[[arXiv]](https://arxiv.org/abs/2412.13171)
+
+2. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space
+[[arXiv]](https://arxiv.org/abs/2412.06769)
+
+3. 2024_arXiv_HCoT+Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding
+
+4. 2025_ACL_SoftCoT_SoftCoT=Soft Chain-of-Thought for Efficient Reasoning with LLMs
+[[arXiv]](https://arxiv.org/abs/2502.12134)
+[[Code-Github]](https://github.com/xuyige/SoftCoT)
+[[Data-Huggingface]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
+
+5. 2025_arXiv_SoftCoT++_SoftCoT++=Test-Time Scaling with Soft Chain-of-Thought Reasoning
+
+6. 2025_arXiv_LightThinker_LightThinker=Thinking Step-by-Step Compression
+[[arXiv]](https://arxiv.org/abs/2502.15589)
+[[Code--Github]](https://github.com/zjunlp/LightThinker)
+
+7. 2025_arXiv_CoT-Valve_CoT-Valve=Length-Compressible Chain-of-Thought Tuning
+[[arXiv]](https://arxiv.org/abs/2502.09601)
+[[Code--Github]](https://github.com/horseee/CoT-Valve)
+
+8. 2025_arXiv_CODI_CODI=Compressing Chain-of-Thought into Continuous Space via Self-Distillation
+[[arXiv]](https://arxiv.org/abs/2502.21074)
+
+9. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking
+[[arXiv]](https://arxiv.org/abs/2501.19201)
+[[Code--Github]](https://github.com/shawnricecake/Heima)
+
+10. 2025_arXiv_Soft Thinking_Soft Thinking= Unlocking the Reasoning Potential of LLMs in Continuous Concept Space
+
+11. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space
 
 
 
-## (4) Compositional & Memory-Augmented
+#### 3.1.3 Diffusion-Driven or Memory-Augmented Reasoning
 
-1. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
+1. 2024_NeruIPS_DoT_Diffusion of Thought= Chain-of-Thought Reasoning in Diffusion Language Models
+ 
+2. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning
+ 
+3. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models
+ 
+4. 2025_arXiv_Beyond Words_Beyond Words=A Latent Memory Approach to Internal Reasoning in LLMs
+[[arXiv]](https://arxiv.org/abs/2502.21030)
 
-   [[arXiv]](https://arxiv.org/abs/2502.21030)
+5. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts
+ 
+6. 2025_arXiv_ReaRec_Think Before Recommend= Unleashing the Latent Reasoning Power for Sequential Recommendation
+
+
+
 
 
