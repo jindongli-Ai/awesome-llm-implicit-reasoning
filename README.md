@@ -7,7 +7,6 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 <div align="center">
 
-![](https://img.shields.io/github/stars/jindongli-Ai/LLM-Implicit-Reasoning-Survey?color=yellow)
 ![](https://img.shields.io/github/stars/jindongli-Ai/LLM-Implicit-Reasoning-Survey?color=yellow&cacheSeconds=60)
 ![](https://img.shields.io/github/forks/jindongli-Ai/LLM-Implicit-Reasoning-Survey?color=lightblue)
 ![](https://img.shields.io/github/last-commit/jindongli-Ai/LLM-Implicit-Reasoning-Survey?color=green)
