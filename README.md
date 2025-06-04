@@ -19,11 +19,21 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 ## Related Survey
 
 1. 2025_arXiv_Survey_A Survey of Efficient Reasoning for Large Reasoning Models= Language, Multimodality, and Beyond. [[arXiv]](https://arxiv.org/abs/2503.21614) [[Github]](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
+ 
 2. 2025_arXiv_Survey_Efficient Inference for Large Reasoning Models= A Survey. [[arXiv]](https://arxiv.org/abs/2503.23077) [[Github]](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)
-3. 2025_arXiv_Survey_Efficient Reasoning Models= A Survey.
-4. 2025_arXiv_Survey_Stop Overthinking=A Survey on Efficient Reasoning for Large Language Models. [[arXiv]](https://arxiv.org/abs/2503.16419) [[Github]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
-5. 2025_Survey_Reasoning Beyond Language= A Comprehensive Survey on Latent Chain-of-Thought Reasoning. [[arXiv]](https://arxiv.org/abs/2505.16782) [[Github]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
+ 
+3. 2025_arXiv_Survey_Efficient Reasoning Models= A Survey. [[arXiv]](https://arxiv.org/abs/2504.10903) [[Github]](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)
+ 
+4. 2025_arXiv_Survey_Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models. [[arXiv]](https://arxiv.org/abs/2503.24377) [[Github]](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)
+ 
+5. 2025_arXiv_Survey_Stop Overthinking=A Survey on Efficient Reasoning for Large Language Models. [[arXiv]](https://arxiv.org/abs/2503.16419) [[Github]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
+ 
+6. 2025_Survey_Reasoning Beyond Language= A Comprehensive Survey on Latent Chain-of-Thought Reasoning. [[arXiv]](https://arxiv.org/abs/2505.16782) [[Github]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 
+
+## Related Reposority
+
+1. hemingkx/Awesome-Efficient-Reasoning. [[Github]](https://github.com/hemingkx/Awesome-Efficient-Reasoning)
 
 
 
