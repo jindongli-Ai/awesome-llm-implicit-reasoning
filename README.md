@@ -33,7 +33,10 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ## Related Reposority
 
-1. hemingkx/Awesome-Efficient-Reasoning. [[Github]](https://github.com/hemingkx/Awesome-Efficient-Reasoning)
+1. hemingkx / Awesome-Efficient-Reasoning. [[Github]](https://github.com/hemingkx/Awesome-Efficient-Reasoning)
+2. Blueyee / Efficient-CoT-LRMs. [[Github]](https://github.com/Blueyee/Efficient-CoT-LRMs)
+3. Hongcheng-Gao / Awesome-Long2short-on-LRMs. [[Github]](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs)
+4. zcccccz / Awesome-LLM-Implicit-Reasoning. [[Github]](https://github.com/zcccccz/Awesome-LLM-Implicit-Reasoning)
 
 
 
