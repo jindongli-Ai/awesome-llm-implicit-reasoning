@@ -20,9 +20,11 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ### Reasoning
 
-1. 2025_arXiv_Survey_Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models. [[arXiv]](https://arxiv.org/abs/2504.21277)
+1. 2023_arXiv_Survey_A Survey of Reasoning with Foundation Model. [[arXiv]](https://arxiv.org/abs/2312.11562) [[Github]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
 
-2. 2025_arXiv_Survey_Towards Reasoning Era: A Survey of Long-Chain-of-Thought for Reasoning Large Language Models. [[arXiv]](https://arxiv.org/abs/2503.09567) [[Github]](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) [[Homepage]](https://long-cot.github.io/)
+2. 2025_arXiv_Survey_Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models. [[arXiv]](https://arxiv.org/abs/2504.21277)
+
+3. 2025_arXiv_Survey_Towards Reasoning Era: A Survey of Long-Chain-of-Thought for Reasoning Large Language Models. [[arXiv]](https://arxiv.org/abs/2503.09567) [[Github]](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) [[Homepage]](https://long-cot.github.io/)
 
 
 ### Efficient Reasoning
