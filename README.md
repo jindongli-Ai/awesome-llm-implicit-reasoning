@@ -14,7 +14,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 <a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-009688.svg" alt="arXiv"></a>
 
 </div>
-
+ 
 
 ## Related Survey
 
