@@ -66,6 +66,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 ## 3. Methodological Landscape of Implicit Reasoning
 
 ### 3.1 Latent-State Reasoning Representations
+
 #### 3.1.1 Latent Tokens as Reasoning Units
 
 1. 2025_arXiv_LPC_Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes.
@@ -81,7 +82,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-#### 3.1.2 Compressed or Structured Reasoning Trajectories
+#### 3.1.2 Trajectory-Based Latent Reasoning
 
 1. 2024_arXiv_CCoT_Compressed Chain of Thought: Efficient Reasoning through Dense Representations.
 [[arXiv]](https://arxiv.org/abs/2412.13171)
@@ -119,7 +120,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-#### 3.1.3 Diffusion-Driven or Memory-Augmented Reasoning
+#### 3.1.3 Non-Sequential Latent Reasoning (Diffusion / Memory)
 
 1. 2024_NeruIPS_DoT_Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models.
  
