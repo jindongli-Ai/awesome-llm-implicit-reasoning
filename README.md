@@ -20,46 +20,71 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ### Reasoning
 
-1. 2023_arXiv_Survey_A Survey of Reasoning with Foundation Model. [[arXiv]](https://arxiv.org/abs/2312.11562) [[Github]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
+1. 2023_arXiv_Survey_A Survey of Reasoning with Foundation Model.
+   [[arXiv]](https://arxiv.org/abs/2312.11562)
+   [[Github]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
 
-2. 2024_ACL_Survey_Large Language Models for Mathematical Reasoning: Progresses and Challenges. [[ACL]]() [[arXiv]](https://arxiv.org/abs/2402.00157)
+2. 2024_ACL_Survey_Large Language Models for Mathematical Reasoning: Progresses and Challenges.
+   [[ACL]](https://aclanthology.org/2024.eacl-srw.17/#:~:text=This%20survey%20endeavors%20to%20address%20four%20pivotal%20dimensions%3A,elucidation%20of%20the%20persisting%20challenges%20within%20this%20domain.)
+   [[arXiv]](https://arxiv.org/abs/2402.00157)
 
-3. 2025_arXiv_Survey_Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models. [[arXiv]](https://arxiv.org/abs/2504.21277)
+3. 2025_arXiv_Survey_Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models.
+   [[arXiv]](https://arxiv.org/abs/2504.21277)
 
-4. 2025_arXiv_Survey_Towards Reasoning Era: A Survey of Long-Chain-of-Thought for Reasoning Large Language Models. [[arXiv]](https://arxiv.org/abs/2503.09567) [[Github]](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) [[Homepage]](https://long-cot.github.io/)
+4. 2025_arXiv_Survey_Towards Reasoning Era: A Survey of Long-Chain-of-Thought for Reasoning Large Language Models.
+   [[arXiv]](https://arxiv.org/abs/2503.09567)
+   [[Github]](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)
+   [[Homepage]](https://long-cot.github.io/)
 
 
 ### Efficient Reasoning
 
-1. 2025_arXiv_Survey_A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond. [[arXiv]](https://arxiv.org/abs/2503.21614) [[Github]](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
+1. 2025_arXiv_Survey_A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond.
+   [[arXiv]](https://arxiv.org/abs/2503.21614)
+   [[Github]](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
  
-2. 2025_arXiv_Survey_Efficient Inference for Large Reasoning Models: A Survey. [[arXiv]](https://arxiv.org/abs/2503.23077) [[Github]](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)
+2. 2025_arXiv_Survey_Efficient Inference for Large Reasoning Models: A Survey.
+   [[arXiv]](https://arxiv.org/abs/2503.23077)
+   [[Github]](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)
  
-3. 2025_arXiv_Survey_Efficient Reasoning Models: A Survey. [[arXiv]](https://arxiv.org/abs/2504.10903) [[Github]](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)
+3. 2025_arXiv_Survey_Efficient Reasoning Models: A Survey.
+   [[arXiv]](https://arxiv.org/abs/2504.10903)
+   [[Github]](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)
  
-4. 2025_arXiv_Survey_Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models. [[arXiv]](https://arxiv.org/abs/2503.24377) [[Github]](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)
+4. 2025_arXiv_Survey_Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models.
+   [[arXiv]](https://arxiv.org/abs/2503.24377)
+   [[Github]](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)
  
-5. 2025_arXiv_Survey_Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models. [[arXiv]](https://arxiv.org/abs/2503.16419) [[Github]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
+5. 2025_arXiv_Survey_Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models.
+    [[arXiv]](https://arxiv.org/abs/2503.16419)
+    [[Github]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
  
-6. 2025_Survey_Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning. [[arXiv]](https://arxiv.org/abs/2505.16782) [[Github]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
+6. 2025_Survey_Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2505.16782)
+    [[Github]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 
 
 ## Related Reposority
 
 ### Reasoning
 
-1. The-Martyr / Awesome-Multimodal-Reasoning. [[Github]](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning)
+1. The-Martyr / Awesome-Multimodal-Reasoning.
+   [[Github]](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning)
 
 
 ### Efficient Reasoning
 
-1. hemingkx / Awesome-Efficient-Reasoning. [[Github]](https://github.com/hemingkx/Awesome-Efficient-Reasoning)
+1. hemingkx / Awesome-Efficient-Reasoning.
+   [[Github]](https://github.com/hemingkx/Awesome-Efficient-Reasoning)
    
-2. Blueyee / Efficient-CoT-LRMs. [[Github]](https://github.com/Blueyee/Efficient-CoT-LRMs)
+2. Blueyee / Efficient-CoT-LRMs.
+   [[Github]](https://github.com/Blueyee/Efficient-CoT-LRMs)
 
-3. Hongcheng-Gao / Awesome-Long2short-on-LRMs. [[Github]](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs)
+3. Hongcheng-Gao / Awesome-Long2short-on-LRMs.
+   [[Github]](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs)
 
-4. zcccccz / Awesome-LLM-Implicit-Reasoning. [[Github]](https://github.com/zcccccz/Awesome-LLM-Implicit-Reasoning)
+4. zcccccz / Awesome-LLM-Implicit-Reasoning.
+   [[Github]](https://github.com/zcccccz/Awesome-LLM-Implicit-Reasoning)
 
 
 
@@ -70,56 +95,82 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 #### 3.1.1 Latent Tokens as Reasoning Units
 
 1. 2025_ICML_LPC_Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes.
-   [[ICML]](https://icml.cc/virtual/2025/poster/44849) [[arXiv]](https://arxiv.org/abs/2505.04993v1)
+   [[ICML]](https://icml.cc/virtual/2025/poster/44849)
+   [[arXiv]](https://arxiv.org/abs/2505.04993v1)
    
 2. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
-   [[ICML]](https://icml.cc/virtual/2025/poster/44409) [[arXiv]](https://arxiv.org/abs/2502.03275v1) [[HuggingFace]](https://huggingface.co/papers/2502.03275)
+   [[ICML]](https://icml.cc/virtual/2025/poster/44409)
+   [[arXiv]](https://arxiv.org/abs/2502.03275v1)
+   [[HuggingFace]](https://huggingface.co/papers/2502.03275)
 
 3. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
-   [[ICML]](https://icml.cc/virtual/2025/poster/43587) [[arXiv]](https://arxiv.org/abs/2502.01567) [[HuggingFace]](https://huggingface.co/papers/2502.01567)
+   [[ICML]](https://icml.cc/virtual/2025/poster/43587)
+   [[arXiv]](https://arxiv.org/abs/2502.01567)
+   [[HuggingFace]](https://huggingface.co/papers/2502.01567)
 
 4. 2025_arXiv_CoCoMix_LLM Pretraining with Continuous Concepts.
-   [[arXiv]](https://arxiv.org/abs/2502.08524v1) [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/1763) [[HuggingFace]](https://huggingface.co/papers/2502.08524) [[YouTube]](https://www.youtube.com/watch?v=3e-1mvDgQBI) [[Bilibili]](https://www.bilibili.com/video/BV1YWXGY8EPY/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
+   [[arXiv]](https://arxiv.org/abs/2502.08524v1)
+   [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/1763)
+   [[HuggingFace]](https://huggingface.co/papers/2502.08524)
+   [[YouTube]](https://www.youtube.com/watch?v=3e-1mvDgQBI)
+   [[Bilibili]](https://www.bilibili.com/video/BV1YWXGY8EPY/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
  
-6. 2025_arXiv_Enhancing Latent Computation in Transformers with Latent Tokens.
-   [[arXiv]](https://arxiv.org/abs/2505.12629) [[HuggingFace]](https://huggingface.co/papers/2505.12629) [[YouTube]](https://www.youtube.com/watch?v=h4TRfadNAFI)
+5. 2025_arXiv_Enhancing Latent Computation in Transformers with Latent Tokens.
+   [[arXiv]](https://arxiv.org/abs/2505.12629)
+   [[HuggingFace]](https://huggingface.co/papers/2505.12629)
+   [[YouTube]](https://www.youtube.com/watch?v=h4TRfadNAFI)
 
 
 #### 3.1.2 Trajectory-Based Latent Reasoning
 
 1. 2024_arXiv_CCoT_Compressed Chain of Thought: Efficient Reasoning through Dense Representations.
-[[arXiv]](https://arxiv.org/abs/2412.13171)
+    [[arXiv]](https://arxiv.org/abs/2412.13171)
+    [[HuggingFace]](https://huggingface.co/papers/2412.13171)
 
-2. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
-[[arXiv]](https://arxiv.org/abs/2412.06769)
+3. 2024_ICLR_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
+    [[ICLR]](https://iclr.cc/virtual/2025/32772)
+    [[arXiv]](https://arxiv.org/abs/2412.06769)
+    [[Github]](https://github.com/facebookresearch/coconut)
+    [[HuggingFace]](https://huggingface.co/papers/2412.06769)
+    [[YouTube]](https://www.youtube.com/watch?v=mhKC3Avqy2E)
 
-3. 2024_arXiv_HCoT+Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding.
 
-4. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
-[[arXiv]](https://arxiv.org/abs/2502.12134)
-[[Code-Github]](https://github.com/xuyige/SoftCoT)
-[[Data-HuggingFace]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
+5. 2024_arXiv_HCoT_Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding.
+   [[arXiv]](https://arxiv.org/abs/2409.08561)
+   [[HuggingFace]](https://huggingface.co/papers/2409.08561)
 
-5. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
+7. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
+    [[arXiv]](https://arxiv.org/abs/2502.12134)
+    [[Code-Github]](https://github.com/xuyige/SoftCoT)
+    [[Data-HuggingFace]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
 
-6. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
-[[arXiv]](https://arxiv.org/abs/2502.15589)
-[[Code--Github]](https://github.com/zjunlp/LightThinker)
+8. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2505.11484)
+    [[HuggingFace]](https://huggingface.co/papers/2505.11484)
 
-7. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
-[[arXiv]](https://arxiv.org/abs/2502.09601)
-[[Code--Github]](https://github.com/horseee/CoT-Valve)
+10. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
+    [[arXiv]](https://arxiv.org/abs/2502.15589)
+    [[Code--Github]](https://github.com/zjunlp/LightThinker)
+    [[HuggingFace]](https://huggingface.co/papers/2502.15589)
+    [[YouTube]](https://www.youtube.com/watch?v=NRVBkNMnG2k)
 
-8. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
-[[arXiv]](https://arxiv.org/abs/2502.21074)
+12. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
+    [[arXiv]](https://arxiv.org/abs/2502.09601)
+    [[Code--Github]](https://github.com/horseee/CoT-Valve)
 
-9. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
-[[arXiv]](https://arxiv.org/abs/2501.19201)
-[[Code--Github]](https://github.com/shawnricecake/Heima)
+13. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
+    [[arXiv]](https://arxiv.org/abs/2502.21074)
+    [[HuggingFace]](https://huggingface.co/papers/2502.21074)
 
-10. 2025_arXiv_Soft Thinking_Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space.
+15. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
+    [[arXiv]](https://arxiv.org/abs/2501.19201)
+    [[Code--Github]](https://github.com/shawnricecake/Heima)
+    [[HuggingFace]](https://huggingface.co/papers/2501.19201)
+    [[YouTube]](https://www.youtube.com/watch?v=VYhjbzN_CGw)
 
-11. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
+17. 2025_arXiv_Soft Thinking_Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space.
+
+18. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
 
 
 
@@ -132,7 +183,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 3. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
  
 4. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
-[[arXiv]](https://arxiv.org/abs/2502.21030)
+    [[arXiv]](https://arxiv.org/abs/2502.21030)
 
 5. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
  
@@ -165,33 +216,33 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 1. 2023_arXiv_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference
 
 2. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach
-[[arXiv]](https://arxiv.org/abs/2502.05171)
-[[Model-HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
-[[Code and Data--Github]](https://github.com/seal-rg/recurrent-pretraining)
+    [[arXiv]](https://arxiv.org/abs/2502.05171)
+    [[Model-HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
+    [[Code and Data--Github]](https://github.com/seal-rg/recurrent-pretraining)
 
 3. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking
 
 4. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning
 
 5. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers
-[[arXiv]](https://arxiv.org/abs/2502.17416)
-[[ICLR]](https://iclr.cc/virtual/2025/poster/28971)
-[[Poster]](https://iclr.cc/media/iclr-2025/Slides/28971.pdf)
-[[Youtube]](https://www.youtube.com/watch?v=S22Bs07HD0k)
+    [[arXiv]](https://arxiv.org/abs/2502.17416)
+    [[ICLR]](https://iclr.cc/virtual/2025/poster/28971)
+    [[Poster]](https://iclr.cc/media/iclr-2025/Slides/28971.pdf)
+    [[Youtube]](https://www.youtube.com/watch?v=S22Bs07HD0k)
 
 
 ### 3.4 Implicit Reasoning via Pretraining or Distillation
 
 1. 2023_arXiv_ImplicitCoT_Implicit Chain of Thought Reasoning via Knowledge Distillation
-[[arXiv]](https://arxiv.org/abs/2311.01460)
-[[Code, Data, Pretrained Model--Github]](https://github.com/da03/implicit_chain_of_thought/)
+    [[arXiv]](https://arxiv.org/abs/2311.01460)
+    [[Code, Data, Pretrained Model--Github]](https://github.com/da03/implicit_chain_of_thought/)
 
 2. 2024_arXiv_Disentangling Memory and Reasoning Ability in Large Language Models
 
 3. 2024_arXiv_Distilling System 2 into System 1
 
 4. 2024_arXiv_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step
-[[arXiv]](https://arxiv.org/abs/2405.14838)
+    [[arXiv]](https://arxiv.org/abs/2405.14838)
 
 5. 2025_arXiv_DEBATER_Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search
 
