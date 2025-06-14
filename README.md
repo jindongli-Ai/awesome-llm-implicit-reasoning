@@ -69,17 +69,20 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 #### 3.1.1 Latent Tokens as Reasoning Units
 
-1. 2025_arXiv_LPC_Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes. [[arXiv]](https://arxiv.org/abs/2505.04993v1)
+1. 2025_ICML_LPC_Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes.
+   [[ICML]](https://icml.cc/virtual/2025/poster/44849) [[arXiv]](https://arxiv.org/abs/2505.04993v1)
    
-2. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning. [[ICML]](https://icml.cc/virtual/2025/poster/44409) [[arXiv]](https://arxiv.org/abs/2502.03275v1) [[HuggingFace]](https://huggingface.co/papers/2502.03275)
+2. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
+   [[ICML]](https://icml.cc/virtual/2025/poster/44409) [[arXiv]](https://arxiv.org/abs/2502.03275v1) [[HuggingFace]](https://huggingface.co/papers/2502.03275)
 
-3. 2025_arXiv_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
-[[arXiv]](https://arxiv.org/abs/2502.01567)
+3. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
+   [[ICML]](https://icml.cc/virtual/2025/poster/43587) [[arXiv]](https://arxiv.org/abs/2502.01567) [[HuggingFace]](https://huggingface.co/papers/2502.01567)
 
 4. 2025_arXiv_CoCoMix_LLM Pretraining with Continuous Concepts.
+   [[arXiv]](https://arxiv.org/abs/2502.08524v1) [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/1763) [[HuggingFace]](https://huggingface.co/papers/2502.08524) [[YouTube]](https://www.youtube.com/watch?v=3e-1mvDgQBI) [[Bilibili]](https://www.bilibili.com/video/BV1YWXGY8EPY/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
  
-5. 2025_arXiv_Enhancing Latent Computation in Transformers with Latent Tokens.
-
+6. 2025_arXiv_Enhancing Latent Computation in Transformers with Latent Tokens.
+   [[arXiv]](https://arxiv.org/abs/2505.12629) [[HuggingFace]](https://huggingface.co/papers/2505.12629) [[YouTube]](https://www.youtube.com/watch?v=h4TRfadNAFI)
 
 
 #### 3.1.2 Trajectory-Based Latent Reasoning
