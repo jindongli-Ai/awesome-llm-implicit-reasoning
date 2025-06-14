@@ -256,7 +256,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2403.09629)
     [[Github]](https://github.com/ezelikman/quiet-star)
     [[HuggingFace]](https://huggingface.co/papers/2403.09629)
-    [[Youtube]](https://www.youtube.com/watch?v=I78o3_lxXaQ)
+    [[YouTube]](https://www.youtube.com/watch?v=I78o3_lxXaQ)
 
 5. 2024_ICLR_Think Before You Speak: Training Language Models with Pause Tokens.
     [[ICLR]](https://iclr.cc/virtual/2024/poster/17771)
