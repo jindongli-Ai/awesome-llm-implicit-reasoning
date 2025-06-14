@@ -25,7 +25,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[Github]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
 
 2. 2024_ACL_Survey_Large Language Models for Mathematical Reasoning: Progresses and Challenges.
-   [[ACL]](https://aclanthology.org/2024.eacl-srw.17/#:~:text=This%20survey%20endeavors%20to%20address%20four%20pivotal%20dimensions%3A,elucidation%20of%20the%20persisting%20challenges%20within%20this%20domain.)
+   [[ACL]](https://aclanthology.org/2024.eacl-srw.17/)
    [[arXiv]](https://arxiv.org/abs/2402.00157)
 
 3. 2025_arXiv_Survey_Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models.
@@ -127,68 +127,88 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2412.13171)
     [[HuggingFace]](https://huggingface.co/papers/2412.13171)
 
-3. 2024_ICLR_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
+2. 2024_ICLR_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
     [[ICLR]](https://iclr.cc/virtual/2025/32772)
     [[arXiv]](https://arxiv.org/abs/2412.06769)
     [[Github]](https://github.com/facebookresearch/coconut)
     [[HuggingFace]](https://huggingface.co/papers/2412.06769)
     [[YouTube]](https://www.youtube.com/watch?v=mhKC3Avqy2E)
 
-
-5. 2024_arXiv_HCoT_Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding.
+3. 2024_arXiv_HCoT_Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding.
    [[arXiv]](https://arxiv.org/abs/2409.08561)
    [[HuggingFace]](https://huggingface.co/papers/2409.08561)
 
-7. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
+4. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.12134)
-    [[Code-Github]](https://github.com/xuyige/SoftCoT)
+    [[Github]](https://github.com/xuyige/SoftCoT)
+    [[HuggingFace]](https://huggingface.co/papers/2502.12134)
     [[Data-HuggingFace]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
 
-8. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
+6. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
     [[arXiv]](https://arxiv.org/abs/2505.11484)
     [[HuggingFace]](https://huggingface.co/papers/2505.11484)
 
-10. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
+7. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
     [[arXiv]](https://arxiv.org/abs/2502.15589)
     [[Code--Github]](https://github.com/zjunlp/LightThinker)
     [[HuggingFace]](https://huggingface.co/papers/2502.15589)
     [[YouTube]](https://www.youtube.com/watch?v=NRVBkNMnG2k)
 
-12. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
+8. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
     [[arXiv]](https://arxiv.org/abs/2502.09601)
     [[Code--Github]](https://github.com/horseee/CoT-Valve)
 
-13. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
+9. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
     [[arXiv]](https://arxiv.org/abs/2502.21074)
     [[HuggingFace]](https://huggingface.co/papers/2502.21074)
 
-15. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
+10. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
     [[arXiv]](https://arxiv.org/abs/2501.19201)
     [[Code--Github]](https://github.com/shawnricecake/Heima)
     [[HuggingFace]](https://huggingface.co/papers/2501.19201)
     [[YouTube]](https://www.youtube.com/watch?v=VYhjbzN_CGw)
 
-17. 2025_arXiv_Soft Thinking_Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space.
+11. 2025_arXiv_Soft Thinking_Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space.
+    [[arXiv]](https://arxiv.org/abs/2505.15778v1)
+    [[HomePage]](https://soft-thinking.github.io/)
+    [[Github]](https://github.com/eric-ai-lab/Soft-Thinking)
+    [[HuggingFace]](https://huggingface.co/papers/2505.15778)
+    [[YouTube]](https://www.youtube.com/watch?v=dgNut1AOadQ)
+    [[Bilibili]](https://www.bilibili.com/video/BV1UvjzzSEKU/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
 
-18. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
-
+12. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
+    [[arXiv]](https://arxiv.org/abs/2505.20674)
+    [[Github]](https://github.com/LUMIA-Group/PonderingLM)
 
 
 #### 3.1.3 Non-Sequential Latent Reasoning (Diffusion / Memory)
 
 1. 2024_NeruIPS_DoT_Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models.
- 
+    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
+    [[ACM NeurIPS]](https://dl.acm.org/doi/10.5555/3737916.3741259)
+    [[arXiv]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
+    [[Github]](https://github.com/HKUNLP/diffusion-of-thoughts)
+    [[HuggingFace]](https://huggingface.co/papers/2402.07754)
+   
 2. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2505.23648)
  
-3. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
+4. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
+    [[arXiv]](https://arxiv.org/abs/2505.10446)
+    [[HuggingFace]](https://huggingface.co/papers/2505.10446)
  
-4. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
+6. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.21030)
 
-5. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
+7. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
+    [[arXiv]](https://arxiv.org/abs/2503.18866)
+    [[HuggingFace]](https://huggingface.co/papers/2503.18866)
+    [[YouTube]](https://www.youtube.com/watch?v=ON4VB6Wgqbw)
  
-6. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
-
+9. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
+    [[arXiv]](http://export.arxiv.org/abs/2503.22675)
+    [[HuggingFace]](https://huggingface.co/papers/2503.22675)
+    [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
 
 
 ### 3.2 Control-Driven Implicit Reasoning
