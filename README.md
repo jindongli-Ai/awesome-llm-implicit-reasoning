@@ -36,6 +36,9 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[Github]](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)
    [[Homepage]](https://long-cot.github.io/)
 
+5. 2025_arXiv_Survey_From System 1 to System 2: A Survey of Reasoning Large Language Models.
+    [[arXiv]](https://arxiv.org/abs/2502.17419)
+    [[Github]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
 
 ### Efficient Reasoning
 
@@ -91,7 +94,8 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 4. zcccccz / Awesome-LLM-Implicit-Reasoning.
    [[Github]](https://github.com/zcccccz/Awesome-LLM-Implicit-Reasoning)
 
-
+5. zzli2022 / Awesome-System2-Reasoning-LLM
+   [[Github]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
 
 
 
@@ -262,29 +266,46 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[YouTube]](https://www.youtube.com/watch?v=MtJ1jacr_yI)
 
 11. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
-
-12. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
-
-13. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
-
+    [[arXiv]](https://arxiv.org/abs/2505.18454)
+    [[Github]](https://github.com/skywalker-hub/HRPO1)
+    [[HuggingFace]](https://huggingface.co/papers/2505.18454)
+    
+13. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
+    [[arXiv]](https://arxiv.org/abs/2505.13308v1)
+    [[HomePage]](https://bigai-nlco.github.io/LatentSeek/)
+    [[Github]](https://github.com/bigai-nlco/LatentSeek)
+    [[HuggingFace]](https://huggingface.co/papers/2505.13308)
+    
+15. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
+    [[arXiv]](https://arxiv.org/abs/2505.18962)
+    [[HuggingFace]](https://huggingface.co/papers/2505.18962)
 
 
 
 
 ### 3.3 Recursive / Layer-Wise Reasoning Execution
 
-1. 2023_arXiv_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
-
-2. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
+1. 2025_ICLR_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
+    [[NeurIPS Workshop]](https://openreview.net/pdf?id=rBgo4Mi8vZ)
+    [[ICLR]](https://iclr.cc/virtual/2025/poster/30808)
+    [[arXiv]](https://arxiv.org/abs/2310.10845)
+    [[Github]](https://github.com/epfml/cotformer)
+   
+3. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
     [[arXiv]](https://arxiv.org/abs/2502.05171)
-    [[Model-HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
-    [[Code and Data--Github]](https://github.com/seal-rg/recurrent-pretraining)
+    [[HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
+    [[Github]](https://github.com/seal-rg/recurrent-pretraining)
+    [[YouTube]](https://www.youtube.com/watch?v=-ZTXnQhH0PQ)
 
-3. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking.
-
-4. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
-
-5. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
+5. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking.
+    [[arXiv]](https://arxiv.org/abs/2502.13842)
+    [[HuggingFace]](https://huggingface.co/papers/2502.13842)
+    [[YouTube]](https://www.youtube.com/watch?v=drbIAHOJiDc)
+   
+7. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2502.08482)
+   
+8. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
     [[arXiv]](https://arxiv.org/abs/2502.17416)
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28971)
     [[Poster]](https://iclr.cc/media/iclr-2025/Slides/28971.pdf)
@@ -299,19 +320,34 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 1. 2023_arXiv_ImplicitCoT_Implicit Chain of Thought Reasoning via Knowledge Distillation.
     [[arXiv]](https://arxiv.org/abs/2311.01460)
-    [[Code, Data, Pretrained Model--Github]](https://github.com/da03/implicit_chain_of_thought/)
+    [[Microsoft]](https://www.microsoft.com/en-us/research/publication/implicit-chain-of-thought-reasoning-via-knowledge-distillation/)
+    [[Github]](https://github.com/da03/implicit_chain_of_thought)
+    [[HuggingFace]](https://huggingface.co/papers/2311.01460)
+    [[YouTube]](https://www.youtube.com/watch?v=DDygkRmcxIk)
 
 2. 2024_arXiv_Disentangling Memory and Reasoning Ability in Large Language Models.
-
-3. 2024_arXiv_Distilling System 2 into System 1.
-
-4. 2024_arXiv_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
+    [[arXiv]](https://arxiv.org/abs/2411.13504)
+    [[Github]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
+   
+4. 2024_NeurIPS Workshop_Distilling System 2 into System 1.
+    [[NeurIPS Workshop]](https://neurips.cc/virtual/2024/104303)
+    [[arXiv]](https://arxiv.org/abs/2407.06023)
+    [[YouTube]](https://www.youtube.com/watch?v=741gC9U9nW4)
+   
+6. 2024_arXiv_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
     [[arXiv]](https://arxiv.org/abs/2405.14838)
+    [[Github]](https://github.com/sanowl/From-Explicit-CoT-to-Implicit-CoT-Learning-to-Internalize-CoT-Step-by-Step)
+    [[HuggingFace]](https://huggingface.co/papers/2405.14838)
+    [[YouTube]](https://www.youtube.com/live/llNI3mhg6BI)
+    [[Bilibili]](https://www.bilibili.com/video/BV1WZ421M7sD/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
 
-5. 2025_arXiv_DEBATER_Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search.
-
-6. 2025_arXiv_Reasoning CPT_Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning.
-
+8. 2025_arXiv_DEBATER_Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search.
+    [[arXiv]](https://arxiv.org/abs/2502.12974)
+    [[Github]](https://github.com/OpenBMB/DEBATER)
+   
+10. 2025_arXiv_Reasoning CPT_Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2505.10182)
+   
 
 
 
@@ -323,19 +359,25 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 ### 4.1 Layer-wise Structural Evidence
 
 1. 2023_arXiv_Jump to Conclusions: Short-Cutting Transformers with Linear Transformations.
-
+    [[]]()
+    
 2. 2024_arXiv_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning.
-
-3. 2024_arXiv_Do Large Language Models Latently Perform Multi-Hop Reasoning.
-
-4. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs.
-
-5. 2025_arXiv_Implicit Reasoning in Transformers is Reasoning through Shortcuts.
-
-6. 2025_arXiv_Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought.
-
-7. 2025_arXiv_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers.
-
+    [[]]()
+   
+4. 2024_arXiv_Do Large Language Models Latently Perform Multi-Hop Reasoning.
+    [[]]()
+   
+6. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs.
+    [[]]()
+   
+8. 2025_arXiv_Implicit Reasoning in Transformers is Reasoning through Shortcuts.
+    [[]]()
+   
+10. 2025_arXiv_Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought.
+    [[]]()
+    
+12. 2025_arXiv_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers.
+    [[]]()
 
 
 
@@ -344,15 +386,20 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 ### 4.2 Behavioral Signatures of Implicit Reasoning
 
 1. 2024_arXiv_Do LLMs Really Think Step-by-Step in Implicit Reasoning.
-
-2. 2024_NeurIPS_Can Language Models Learn to Skip Steps.
-
-3. 2024_arXiv_Think-to-Talk or Talk-to-Think: When LLMs Come Up with an Answer in Multi-Step Arithmetic Reasoning.
-
-4. 2024_arXiv_Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization.
-
-5. 2025_Anthropic_On the Biology of Large Language Model.
-
+    [[]]()
+   
+3. 2024_NeurIPS_Can Language Models Learn to Skip Steps.
+    [[]]()
+   
+5. 2024_arXiv_Think-to-Talk or Talk-to-Think: When LLMs Come Up with an Answer in Multi-Step Arithmetic Reasoning.
+    [[]]()
+   
+7. 2024_arXiv_Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization.
+    [[]]()
+   
+9. 2025_Anthropic_On the Biology of Large Language Model.
+    [[]]()
+   
 
 
 
@@ -361,15 +408,19 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 ### 4.3 Representation-Based Probing of Reasoning
 
 1. 2023_arXiv_MechanisticProbe_Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models.
-
-2. 2024_arXiv_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
-
-3. 2025_arXiv_Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models.
-
-4. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models.
-
-5. 2025_ICLR_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
-
+    [[]]()
+   
+3. 2024_arXiv_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
+    [[]]()
+   
+5. 2025_arXiv_Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models.
+    [[]]()
+   
+7. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models.
+    [[]]()
+   
+9. 2025_ICLR_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
+    [[]]()
 
 
 
