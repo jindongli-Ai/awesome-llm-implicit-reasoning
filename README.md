@@ -255,12 +255,17 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[Youtube]](https://www.youtube.com/watch?v=I78o3_lxXaQ)
 
 9. 2024_ICLR_Think Before You Speak: Training Language Models with Pause Tokens.
+    [[ICLR]](https://iclr.cc/virtual/2024/poster/17771)
+    [[arXiv]](https://arxiv.org/abs/2310.02226)
+    [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/1072)
+    [[HuggingFace]](https://huggingface.co/papers/2310.02226)
+    [[YouTube]](https://www.youtube.com/watch?v=MtJ1jacr_yI)
 
-10. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
+11. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
 
-11. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
+12. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
 
-12. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
+13. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
 
 
 
