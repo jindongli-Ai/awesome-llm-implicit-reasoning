@@ -69,9 +69,9 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 #### 3.1.1 Latent Tokens as Reasoning Units
 
-1. 2025_arXiv_LPC_Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes.
+1. 2025_arXiv_LPC_Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes. [[arXiv]](https://arxiv.org/abs/2505.04993v1)
    
-2. 2025_arXiv_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
+2. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning. [[ICML]](https://icml.cc/virtual/2025/poster/44409) [[arXiv]](https://arxiv.org/abs/2502.03275v1) [[HuggingFace]](https://huggingface.co/papers/2502.03275)
 
 3. 2025_arXiv_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
 [[arXiv]](https://arxiv.org/abs/2502.01567)
@@ -95,7 +95,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 4. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
 [[arXiv]](https://arxiv.org/abs/2502.12134)
 [[Code-Github]](https://github.com/xuyige/SoftCoT)
-[[Data-Huggingface]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
+[[Data-HuggingFace]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
 
 5. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
 
@@ -163,7 +163,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 2. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach
 [[arXiv]](https://arxiv.org/abs/2502.05171)
-[[Model-Huggingface]](https://huggingface.co/tomg-group-umd/huginn-0125)
+[[Model-HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
 [[Code and Data--Github]](https://github.com/seal-rg/recurrent-pretraining)
 
 3. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking
