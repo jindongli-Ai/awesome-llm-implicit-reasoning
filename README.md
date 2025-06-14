@@ -64,12 +64,17 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[Github]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 
 
+
+
+
 ## Related Reposority
 
 ### Reasoning
 
 1. The-Martyr / Awesome-Multimodal-Reasoning.
    [[Github]](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning)
+
+
 
 
 ### Efficient Reasoning
@@ -85,6 +90,9 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 4. zcccccz / Awesome-LLM-Implicit-Reasoning.
    [[Github]](https://github.com/zcccccz/Awesome-LLM-Implicit-Reasoning)
+
+
+
 
 
 
@@ -121,6 +129,9 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[YouTube]](https://www.youtube.com/watch?v=h4TRfadNAFI)
 
 
+
+
+
 #### 3.1.2 Trajectory-Based Latent Reasoning
 
 1. 2024_arXiv_CCoT_Compressed Chain of Thought: Efficient Reasoning through Dense Representations.
@@ -135,8 +146,8 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[YouTube]](https://www.youtube.com/watch?v=mhKC3Avqy2E)
 
 3. 2024_arXiv_HCoT_Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding.
-   [[arXiv]](https://arxiv.org/abs/2409.08561)
-   [[HuggingFace]](https://huggingface.co/papers/2409.08561)
+    [[arXiv]](https://arxiv.org/abs/2409.08561)
+    [[HuggingFace]](https://huggingface.co/papers/2409.08561)
 
 4. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.12134)
@@ -181,6 +192,9 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[Github]](https://github.com/LUMIA-Group/PonderingLM)
 
 
+
+
+
 #### 3.1.3 Non-Sequential Latent Reasoning (Diffusion / Memory)
 
 1. 2024_NeruIPS_DoT_Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models.
@@ -211,62 +225,87 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
 
 
+
+
+
 ### 3.2 Control-Driven Implicit Reasoning
 
-1. 2024_arXiv_Thinking Tokens for Language Modeling
+1. 2024_arXiv_Thinking Tokens for Language Modeling.
+    [[arXiv]](https://arxiv.org/abs/2405.08644)
+    [[HuggingFace]](https://huggingface.co/papers/2405.08644)
    
-2. 2024_CoLM_FilterTokens_Let's Think Dot by Dot: Hidden Computation in Transformer Language Models
+2. 2024_CoLM_FilterTokens_Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.
+    [[CoLM--OpenReview]](https://openreview.net/forum?id=NikbrdtYvG#discussion)
+    [[arXiv]](https://arxiv.org/abs/2404.15758)
+    [[HuggingFace]](https://huggingface.co/papers/2404.15758)
+    [[YouTube]](https://www.youtube.com/watch?v=AIR9QduDqD8)
 
-3. 2024_COLM_Guiding Language Model Reasoning with Planning Tokens
+3. 2024_CoLM_Guiding Language Model Reasoning with Planning Tokens.
+    [[CoLM--OpenReview]](https://openreview.net/forum?id=wi9IffRhVM)
+    [[arXiv]](https://arxiv.org/abs/2310.05707)
+    [[Microsoft]](https://www.microsoft.com/en-us/research/publication/guiding-language-model-reasoning-with-planning-tokens/)
+    [[Github]](https://github.com/WANGXinyiLinda/planning_tokens)
+    
 
-4. 2024_COLM_Quiet-STaR_Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking
+7. 2024_COLM_Quiet-STaR_Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
+    [[CoLM--OpenReview]](https://openreview.net/forum?id=oRXPiSOGH9#discussion)
+    [[arXiv]](https://arxiv.org/abs/2403.09629)
+    [[Github]](https://github.com/ezelikman/quiet-star)
+    [[HuggingFace]](https://huggingface.co/papers/2403.09629)
+    [[Youtube]](https://www.youtube.com/watch?v=I78o3_lxXaQ)
 
-5. 2024_ICLR_Think Before You Speak: Training Language Models with Pause Tokens
+9. 2024_ICLR_Think Before You Speak: Training Language Models with Pause Tokens.
 
-6. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning
+10. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
 
-7. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space
+11. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
 
-8. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts
+12. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
+
+
 
 
 
 ### 3.3 Recursive / Layer-Wise Reasoning Execution
 
-1. 2023_arXiv_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference
+1. 2023_arXiv_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
 
-2. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach
+2. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
     [[arXiv]](https://arxiv.org/abs/2502.05171)
     [[Model-HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
     [[Code and Data--Github]](https://github.com/seal-rg/recurrent-pretraining)
 
-3. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking
+3. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking.
 
-4. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning
+4. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
 
-5. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers
+5. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
     [[arXiv]](https://arxiv.org/abs/2502.17416)
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28971)
     [[Poster]](https://iclr.cc/media/iclr-2025/Slides/28971.pdf)
     [[Youtube]](https://www.youtube.com/watch?v=S22Bs07HD0k)
 
 
+
+
+
+
 ### 3.4 Implicit Reasoning via Pretraining or Distillation
 
-1. 2023_arXiv_ImplicitCoT_Implicit Chain of Thought Reasoning via Knowledge Distillation
+1. 2023_arXiv_ImplicitCoT_Implicit Chain of Thought Reasoning via Knowledge Distillation.
     [[arXiv]](https://arxiv.org/abs/2311.01460)
     [[Code, Data, Pretrained Model--Github]](https://github.com/da03/implicit_chain_of_thought/)
 
-2. 2024_arXiv_Disentangling Memory and Reasoning Ability in Large Language Models
+2. 2024_arXiv_Disentangling Memory and Reasoning Ability in Large Language Models.
 
-3. 2024_arXiv_Distilling System 2 into System 1
+3. 2024_arXiv_Distilling System 2 into System 1.
 
-4. 2024_arXiv_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step
+4. 2024_arXiv_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
     [[arXiv]](https://arxiv.org/abs/2405.14838)
 
-5. 2025_arXiv_DEBATER_Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search
+5. 2025_arXiv_DEBATER_Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search.
 
-6. 2025_arXiv_Reasoning CPT_Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning
+6. 2025_arXiv_Reasoning CPT_Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning.
 
 
 
@@ -277,45 +316,57 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 ## 4. Mechanistic and Behavioral Evidence
 
 ### 4.1 Layer-wise Structural Evidence
-1. 2023_arXiv_Jump to Conclusions: Short-Cutting Transformers with Linear Transformations
 
-2. 2024_arXiv_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning
+1. 2023_arXiv_Jump to Conclusions: Short-Cutting Transformers with Linear Transformations.
 
-3. 2024_arXiv_Do Large Language Models Latently Perform Multi-Hop Reasoning
+2. 2024_arXiv_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning.
 
-4. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs
+3. 2024_arXiv_Do Large Language Models Latently Perform Multi-Hop Reasoning.
 
-5. 2025_arXiv_Implicit Reasoning in Transformers is Reasoning through Shortcuts
+4. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs.
 
-6. 2025_arXiv_Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought
+5. 2025_arXiv_Implicit Reasoning in Transformers is Reasoning through Shortcuts.
 
-7. 2025_arXiv_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers
+6. 2025_arXiv_Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought.
+
+7. 2025_arXiv_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers.
+
+
+
+
 
 
 ### 4.2 Behavioral Signatures of Implicit Reasoning
 
-1. 2024_arXiv_Do LLMs Really Think Step-by-Step in Implicit Reasoning
+1. 2024_arXiv_Do LLMs Really Think Step-by-Step in Implicit Reasoning.
 
-2. 2024_NeurIPS_Can Language Models Learn to Skip Steps
+2. 2024_NeurIPS_Can Language Models Learn to Skip Steps.
 
-3. 2024_arXiv_Think-to-Talk or Talk-to-Think: When LLMs Come Up with an Answer in Multi-Step Arithmetic Reasoning
+3. 2024_arXiv_Think-to-Talk or Talk-to-Think: When LLMs Come Up with an Answer in Multi-Step Arithmetic Reasoning.
 
-4. 2024_arXiv_Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization
+4. 2024_arXiv_Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization.
 
-5. 2025_Anthropic_On the Biology of Large Language Model
+5. 2025_Anthropic_On the Biology of Large Language Model.
+
+
+
+
 
 
 ### 4.3 Representation-Based Probing of Reasoning
 
-1. 2023_arXiv_MechanisticProbe_Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models
+1. 2023_arXiv_MechanisticProbe_Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models.
 
-2. 2024_arXiv_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task
+2. 2024_arXiv_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
 
-3. 2025_arXiv_Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models
+3. 2025_arXiv_Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models.
 
-4. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models
+4. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models.
 
-5. 2025_ICLR_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation
+5. 2025_ICLR_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
+
+
+
 
 
 
