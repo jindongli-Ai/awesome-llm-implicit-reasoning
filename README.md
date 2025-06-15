@@ -106,33 +106,31 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 #### 3.1.1 Latent Tokens as Reasoning Units
 
-1. 2025_ICML_LPC_Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes.
-   [[ICML]](https://icml.cc/virtual/2025/poster/44849)
-   [[arXiv]](https://arxiv.org/abs/2505.04993v1)
-   
-2. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
-   [[ICML]](https://icml.cc/virtual/2025/poster/44409)
-   [[arXiv]](https://arxiv.org/abs/2502.03275v1)
-   [[HuggingFace]](https://huggingface.co/papers/2502.03275)
-
-3. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
-   [[ICML]](https://icml.cc/virtual/2025/poster/43587)
-   [[arXiv]](https://arxiv.org/abs/2502.01567)
-   [[HuggingFace]](https://huggingface.co/papers/2502.01567)
-
-4. 2025_arXiv_CoCoMix_LLM Pretraining with Continuous Concepts.
+1. 2025_arXiv_CoCoMix_LLM Pretraining with Continuous Concepts.
    [[arXiv]](https://arxiv.org/abs/2502.08524v1)
    [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/1763)
    [[HuggingFace]](https://huggingface.co/papers/2502.08524)
    [[YouTube]](https://www.youtube.com/watch?v=3e-1mvDgQBI)
    [[Bilibili]](https://www.bilibili.com/video/BV1YWXGY8EPY/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
  
-5. 2025_arXiv_Enhancing Latent Computation in Transformers with Latent Tokens.
+2. 2025_arXiv_Enhancing Latent Computation in Transformers with Latent Tokens.
    [[arXiv]](https://arxiv.org/abs/2505.12629)
    [[HuggingFace]](https://huggingface.co/papers/2505.12629)
    [[YouTube]](https://www.youtube.com/watch?v=h4TRfadNAFI)
 
-
+3. 2025_ICML_LPC_Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes.
+   [[ICML]](https://icml.cc/virtual/2025/poster/44849)
+   [[arXiv]](https://arxiv.org/abs/2505.04993v1)
+   
+4. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
+   [[ICML]](https://icml.cc/virtual/2025/poster/43587)
+   [[arXiv]](https://arxiv.org/abs/2502.01567)
+   [[HuggingFace]](https://huggingface.co/papers/2502.01567)   
+   
+5. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
+   [[ICML]](https://icml.cc/virtual/2025/poster/44409)
+   [[arXiv]](https://arxiv.org/abs/2502.03275v1)
+   [[HuggingFace]](https://huggingface.co/papers/2502.03275)
 
 
 
@@ -142,27 +140,30 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2412.13171)
     [[HuggingFace]](https://huggingface.co/papers/2412.13171)
 
-2. 2024_ICLR_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
+2. 2024_arXiv_HCoT_Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding.
+    [[arXiv]](https://arxiv.org/abs/2409.08561)
+    [[HuggingFace]](https://huggingface.co/papers/2409.08561)
+
+3. 2024_ICLR_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
     [[ICLR]](https://iclr.cc/virtual/2025/32772)
     [[arXiv]](https://arxiv.org/abs/2412.06769)
     [[Github]](https://github.com/facebookresearch/coconut)
     [[HuggingFace]](https://huggingface.co/papers/2412.06769)
     [[YouTube]](https://www.youtube.com/watch?v=mhKC3Avqy2E)
 
-3. 2024_arXiv_HCoT_Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding.
-    [[arXiv]](https://arxiv.org/abs/2409.08561)
-    [[HuggingFace]](https://huggingface.co/papers/2409.08561)
+4. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
+    [[arXiv]](https://arxiv.org/abs/2502.09601)
+    [[Code--Github]](https://github.com/horseee/CoT-Valve)
 
-4. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
-    [[arXiv]](https://arxiv.org/abs/2502.12134)
-    [[Github]](https://github.com/xuyige/SoftCoT)
-    [[HuggingFace]](https://huggingface.co/papers/2502.12134)
-    [[Data-HuggingFace]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
+5. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
+    [[arXiv]](https://arxiv.org/abs/2502.21074)
+    [[HuggingFace]](https://huggingface.co/papers/2502.21074)
 
-5. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2505.11484)
-    [[Github]](https://github.com/xuyige/SoftCoT)
-    [[HuggingFace]](https://huggingface.co/papers/2505.11484)
+6. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
+    [[arXiv]](https://arxiv.org/abs/2501.19201)
+    [[Code--Github]](https://github.com/shawnricecake/Heima)
+    [[HuggingFace]](https://huggingface.co/papers/2501.19201)
+    [[YouTube]](https://www.youtube.com/watch?v=VYhjbzN_CGw)
 
 7. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
     [[arXiv]](https://arxiv.org/abs/2502.15589)
@@ -170,21 +171,11 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HuggingFace]](https://huggingface.co/papers/2502.15589)
     [[YouTube]](https://www.youtube.com/watch?v=NRVBkNMnG2k)
 
-8. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
-    [[arXiv]](https://arxiv.org/abs/2502.09601)
-    [[Code--Github]](https://github.com/horseee/CoT-Valve)
+8. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
+    [[arXiv]](https://arxiv.org/abs/2505.20674)
+    [[Github]](https://github.com/LUMIA-Group/PonderingLM)
 
-9. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
-    [[arXiv]](https://arxiv.org/abs/2502.21074)
-    [[HuggingFace]](https://huggingface.co/papers/2502.21074)
-
-10. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
-    [[arXiv]](https://arxiv.org/abs/2501.19201)
-    [[Code--Github]](https://github.com/shawnricecake/Heima)
-    [[HuggingFace]](https://huggingface.co/papers/2501.19201)
-    [[YouTube]](https://www.youtube.com/watch?v=VYhjbzN_CGw)
-
-11. 2025_arXiv_Soft Thinking_Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space.
+9. 2025_arXiv_Soft Thinking_Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space.
     [[arXiv]](https://arxiv.org/abs/2505.15778v1)
     [[HomePage]](https://soft-thinking.github.io/)
     [[Github]](https://github.com/eric-ai-lab/Soft-Thinking)
@@ -192,9 +183,17 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[YouTube]](https://www.youtube.com/watch?v=dgNut1AOadQ)
     [[Bilibili]](https://www.bilibili.com/video/BV1UvjzzSEKU/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
 
-12. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
-    [[arXiv]](https://arxiv.org/abs/2505.20674)
-    [[Github]](https://github.com/LUMIA-Group/PonderingLM)
+10. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
+    [[arXiv]](https://arxiv.org/abs/2502.12134)
+    [[Github]](https://github.com/xuyige/SoftCoT)
+    [[HuggingFace]](https://huggingface.co/papers/2502.12134)
+    [[Data-HuggingFace]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
+
+11. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2505.11484)
+    [[Github]](https://github.com/xuyige/SoftCoT)
+    [[HuggingFace]](https://huggingface.co/papers/2505.11484)
+
 
 
 
@@ -225,7 +224,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HuggingFace]](https://huggingface.co/papers/2503.18866)
     [[YouTube]](https://www.youtube.com/watch?v=ON4VB6Wgqbw)
  
-7. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
+6. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
     [[arXiv]](http://export.arxiv.org/abs/2503.22675)
     [[HuggingFace]](https://huggingface.co/papers/2503.22675)
     [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
