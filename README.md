@@ -287,32 +287,32 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ### 3.3 Recursive / Layer-Wise Reasoning Execution
 
-1. 2025_ICLR_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
-    [[NeurIPS Workshop]](https://openreview.net/pdf?id=rBgo4Mi8vZ)
-    [[ICLR]](https://iclr.cc/virtual/2025/poster/30808)
-    [[arXiv]](https://arxiv.org/abs/2310.10845)
-    [[Github]](https://github.com/epfml/cotformer)
    
-2. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
+1. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
     [[arXiv]](https://arxiv.org/abs/2502.05171)
     [[HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
     [[Github]](https://github.com/seal-rg/recurrent-pretraining)
     [[YouTube]](https://www.youtube.com/watch?v=-ZTXnQhH0PQ)
 
-3. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking.
+2. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking.
     [[arXiv]](https://arxiv.org/abs/2502.13842)
     [[HuggingFace]](https://huggingface.co/papers/2502.13842)
     [[YouTube]](https://www.youtube.com/watch?v=drbIAHOJiDc)
    
-4. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
+3. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
     [[arXiv]](https://arxiv.org/abs/2502.08482)
    
-5. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
+4. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
     [[arXiv]](https://arxiv.org/abs/2502.17416)
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28971)
     [[Poster]](https://iclr.cc/media/iclr-2025/Slides/28971.pdf)
     [[Youtube]](https://www.youtube.com/watch?v=S22Bs07HD0k)
 
+5. 2025_ICLR_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
+    [[NeurIPS Workshop]](https://openreview.net/pdf?id=rBgo4Mi8vZ)
+    [[ICLR]](https://iclr.cc/virtual/2025/poster/30808)
+    [[arXiv]](https://arxiv.org/abs/2310.10845)
+    [[Github]](https://github.com/epfml/cotformer)
 
 
 
