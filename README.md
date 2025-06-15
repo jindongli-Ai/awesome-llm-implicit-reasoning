@@ -221,10 +221,11 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 5. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
     [[arXiv]](https://arxiv.org/abs/2503.18866)
+    [[GitHub]](https://github.com/ryoungj/BoLT)
     [[HuggingFace]](https://huggingface.co/papers/2503.18866)
     [[YouTube]](https://www.youtube.com/watch?v=ON4VB6Wgqbw)
  
-6. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
+7. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
     [[arXiv]](http://export.arxiv.org/abs/2503.22675)
     [[HuggingFace]](https://huggingface.co/papers/2503.22675)
     [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
