@@ -77,6 +77,8 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 1. The-Martyr / Awesome-Multimodal-Reasoning.
    [[Github]](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning)
 
+2. atfortes / Awesome-LLM-Reasoning
+   [[GitHub]](https://github.com/atfortes/Awesome-LLM-Reasoning)
 
 
 
