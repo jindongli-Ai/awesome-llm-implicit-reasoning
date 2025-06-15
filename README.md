@@ -440,9 +440,10 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 2. 2024_ACL_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
     [[ACL]](https://aclanthology.org/2024.findings-acl.242/)
     [[arXiv]](https://arxiv.org/abs/2402.11917v3)
+    [[GitHub]](https://github.com/abhay-sheshadri/backward-chaining-circuits)
     [[HuggingFace]](https://huggingface.co/papers/2402.11917)
    
-3. 2025_arXiv_Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models.
+4. 2025_arXiv_Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models.
     [[arXiv]](https://arxiv.org/abs/2504.10615)
     [[HuggingFace]](https://huggingface.co/papers/2504.10615)
    
