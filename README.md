@@ -100,7 +100,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-## 3. Methodological Landscape of Implicit Reasoning
+## 3. Technical Paradigms for Implicit Reasoning
 
 ### 3.1 Latent-State Reasoning Representations
 
