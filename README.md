@@ -62,7 +62,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2503.16419)
     [[Github]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
  
-6. 2025_Survey_Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning.
+6. 2025_arXiv_Survey_Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning.
     [[arXiv]](https://arxiv.org/abs/2505.16782)
     [[Github]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 
