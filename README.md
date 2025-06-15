@@ -331,17 +331,17 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2411.13504)
     [[Github]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
    
-3. 2024_NeurIPS Workshop_Distilling System 2 into System 1.
-    [[NeurIPS Workshop]](https://neurips.cc/virtual/2024/104303)
-    [[arXiv]](https://arxiv.org/abs/2407.06023)
-    [[YouTube]](https://www.youtube.com/watch?v=741gC9U9nW4)
-   
-4. 2024_arXiv_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
+3. 2024_arXiv_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
     [[arXiv]](https://arxiv.org/abs/2405.14838)
     [[Github]](https://github.com/sanowl/From-Explicit-CoT-to-Implicit-CoT-Learning-to-Internalize-CoT-Step-by-Step)
     [[HuggingFace]](https://huggingface.co/papers/2405.14838)
     [[YouTube]](https://www.youtube.com/live/llNI3mhg6BI)
     [[Bilibili]](https://www.bilibili.com/video/BV1WZ421M7sD/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
+
+4. 2024_NeurIPS Workshop_Distilling System 2 into System 1.
+    [[NeurIPS Workshop]](https://neurips.cc/virtual/2024/104303)
+    [[arXiv]](https://arxiv.org/abs/2407.06023)
+    [[YouTube]](https://www.youtube.com/watch?v=741gC9U9nW4)
 
 5. 2025_arXiv_DEBATER_Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search.
     [[arXiv]](https://arxiv.org/abs/2502.12974)
