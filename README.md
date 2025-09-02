@@ -7,9 +7,9 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 
 <div align="center">
 
-![](https://img.shields.io/github/stars/jindongli-Ai/LLM-Implicit-Reasoning-Survey?color=yellow&cacheSeconds=60)
-![](https://img.shields.io/github/forks/jindongli-Ai/LLM-Implicit-Reasoning-Survey?color=lightblue)
-![](https://img.shields.io/github/last-commit/jindongli-Ai/LLM-Implicit-Reasoning-Survey?color=green)
+![](https://img.shields.io/github/stars/digailab/awesome-llm-implicit-reasoning?color=yellow&cacheSeconds=60)
+![](https://img.shields.io/github/forks/digailab/awesome-llm-implicit-reasoning?color=lightblue)
+![](https://img.shields.io/github/last-commit/digailab/awesome-llm-implicit-reasoning?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
 <a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-009688.svg" alt="arXiv"></a>
 
