@@ -17,6 +17,13 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
  
 
 
+<div align="center">
+    [arXiv][https://arxiv.org/abs/2509.02350]
+</div>
+
+
+
+
 <p align="center">
     <img src="./figs/abstract.png" alt="abstract" width="700" />
 </p>
