@@ -11,7 +11,7 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 ![](https://img.shields.io/github/forks/digailab/awesome-llm-implicit-reasoning?color=lightblue)
 ![](https://img.shields.io/github/last-commit/digailab/awesome-llm-implicit-reasoning?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.xxxxx-02350.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.02350-02350.svg" alt="arXiv"></a>
 
 </div>
  
