@@ -502,7 +502,9 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
     [[arXiv]](https://arxiv.org/abs/2410.13640)
     [[Github]](https://github.com/Alsace08/Chain-of-Embedding)
 
-
+8. 2025_arXiv_Huginn-Latent-CoT_Latent Chain-of-Thught: Decoding the Depth-Recurrent Transformer.
+   [[arXiv]](https://arxiv.org/abs/2507.02199)
+   [[Github]](https://github.com/wenquanlu/huginn-latent-cot)
 
 
 
