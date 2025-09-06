@@ -652,7 +652,14 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 
 ## 📖 Citation
 
-
+```
+@article{li2025implicit,
+  title={Implicit Reasoning in Large Language Models: A Comprehensive Survey},
+  author={Li, Jindong and Fu, Yali and Fan, Li and Liu, Jiahong and Shu, Yao and Qin, Chengwei and Yang, Menglin and King, Irwin and Ying, Rex},
+  journal={arXiv preprint arXiv:2509.02350},
+  year={2025}
+}
+```
 
 
 
