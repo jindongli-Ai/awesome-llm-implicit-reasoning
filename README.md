@@ -11,7 +11,7 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 ![](https://img.shields.io/github/forks/digailab/awesome-llm-implicit-reasoning?color=lightblue)
 ![](https://img.shields.io/github/last-commit/digailab/awesome-llm-implicit-reasoning?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="https://arxiv.org/abs/2509.02350" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.02350-009688.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2509.02350" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.02350-009688.svg" alt="arXiv" /></a>
 
 </div>
  
@@ -21,14 +21,14 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
     [arXiv][https://arxiv.org/abs/2509.02350]
 </div>
 
-<br>
+<br/>
 
 
 
 <p align="center">
     <img src="./figs/abstract.png" alt="abstract" width="700" />
 </p>
-<br>
+<br/>
 
 ## 1. Introduction
 
@@ -36,13 +36,13 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 <p align="center">
     <img src="./figs/fig_1.png" alt="fig_1" width="700" />
 </p>
-<br>
+<br/>
 
 
 <p align="center">
     <img src="./figs/fig_2.png" alt="fig_2" width="800" />
 </p>
-<br>
+<br/>
 
 ## 2. Preliminaries
 
@@ -50,7 +50,7 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 <p align="center">
     <img src="./figs/tab_1.png" alt="tab_1" width="700" />
 </p>
-<br>
+<br/>
 
 
 
@@ -63,13 +63,13 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 <p align="center">
     <img src="./figs/fig_3.png" alt="fig_3" width="700" />
 </p>
-<br>
+<br/>
 
 
 <p align="center">
     <img src="./figs/tab_2.png" alt="tab_2" width="700" />
 </p>
-<br>
+<br/>
 
 
 1. 2025_arXiv_CoCoMix_LLM Pretraining with Continuous Concepts.
@@ -104,13 +104,13 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 <p align="center">
     <img src="./figs/fig_4.png" alt="fig_4" width="700" />
 </p>
-<br>
+<br/>
 
 
 <p align="center">
     <img src="./figs/tab_3.png" alt="tab_3" width="700" />
 </p>
-<br>
+<br/>
 
 
 ##### 3.1.2.1 Semantic Anchoring
@@ -238,13 +238,13 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 <p align="center">
     <img src="./figs/fig_5.png" alt="fig_5" width="700" />
 </p>
-<br>
+<br/>
 
 
 <p align="center">
     <img src="./figs/tab_4.png" alt="tab_4" width="700" />
 </p>
-<br>
+<br/>
 
 
 1. 2023_arXiv_ICoT-KD_Implicit Chain of Thought Reasoning via Knowledge Distillation.
@@ -291,7 +291,7 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 <p align="center">
     <img src="./figs/tab_5.png" alt="tab_5" width="700" />
 </p>
-<br>
+<br/>
 
 
 
@@ -362,13 +362,13 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 <p align="center">
     <img src="./figs/fig_6.png" alt="fig_6" width="700" />
 </p>
-<br>
+<br/>
 
 
 <p align="center">
     <img src="./figs/tab_6.png" alt="tab_6" width="700" />
 </p>
-<br>
+<br/>
 
 
 
@@ -525,35 +525,35 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 <p align="center">
     <img src="./figs/tab_7.png" alt="tab_7" width="700" />
 </p>
-<br>
+<br/>
 
 #### 5.2.2 Mathematical Reasoning and Programming Benchmarks
 
 <p align="center">
     <img src="./figs/tab_8.png" alt="tab_8" width="700" />
 </p>
-<br>
+<br/>
 
 #### 5.2.3 Language Modeling and Reading Comprehension Benchmarks
 
 <p align="center">
     <img src="./figs/tab_9.png" alt="tab_9" width="700" />
 </p>
-<br>
+<br/>
 
 #### 5.2.4 Complex Multi-hop and Multidisciplinary QA Benchmarks
 
 <p align="center">
     <img src="./figs/tab_10.png" alt="tab_10" width="700" />
 </p>
-<br>
+<br/>
 
 #### 5.2.5 Multi-modal Reasoning Benchmarks
 
 <p align="center">
     <img src="./figs/tab_11.png" alt="tab_11" width="700" />
 </p>
-<br>
+<br/>
 
 
 
