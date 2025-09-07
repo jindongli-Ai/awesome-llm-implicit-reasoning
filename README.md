@@ -507,6 +507,12 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
    [[Github]](https://github.com/wenquanlu/huginn-latent-cot)
 
 
+9. 4.3.1.9 2025_arXiv_Randomized Soft Thinking_LLMs are Single-Threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking.
+    [[arXiv]](https://arxiv.org/abs/2508.03440)
+    [[Github]](https://github.com/WJMacro/Randomized-Soft-Thinking)
+
+
+
 
 
 ## 5. Evaluation Methods and Benchmarks
